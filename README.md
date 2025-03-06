@@ -1,5 +1,5 @@
 <h2 align="left">Olá! 👋! Meu nome é Andrey Montibeller!</h2>
-- 📫 Entre em contato: **andreymontibeller02@gmail.com**
+
 ###
 
 <div align="center">
@@ -40,8 +40,8 @@
 
 <div align="left">
   <a href="https://www.instagram.com/andy.montibeller/?utm_source=ig_web_button_share_sheet" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/></a>
-  <a href="https://dev.to/@andy_monti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@andy_monti" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/andrey montibeller" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrey montibeller" height="30" width="40" /></a>
+  <a href="https://dev.to/@andy_monti" target="blank"><img src="https://img.shields.io/static/v1?message=Dev&logo=dev&label=&color=gray&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Dev logo"/></a>
+  <a href="https://linkedin.com/in/andrey montibeller" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
 </div>
 
 ###
