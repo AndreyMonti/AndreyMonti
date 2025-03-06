@@ -47,5 +47,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/AndreyMonti/AndreyMonti/output/snake.svg" alt="Snake animation" />
