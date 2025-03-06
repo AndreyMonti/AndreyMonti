@@ -39,9 +39,9 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/andy.montibeller/?utm_source=ig_web_button_share_sheet" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/></a>
-  <a href="https://dev.to/@andy_monti" target="blank"><img src="https://img.shields.io/static/v1?message=Dev&logo=dev&label=&color=gray&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Dev logo"/></a>
-  <a href="https://linkedin.com/in/andrey montibeller" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
+  <a href="https://www.instagram.com/andy.montibeller/?utm_source=ig_web_button_share_sheet" target="_blank"><img src="https://img.shields.io/static/v1 message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/></a>
+  <a href="https://dev.to/@andy_monti" target="_blank"><img src="https://img.shields.io/static/v1?message=Dev&logo=dev&label=&color=gray&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Dev logo"/></a>
+  <a href="https://linkedin.com/in/andrey-montibeller" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
 </div>
 
 ###
