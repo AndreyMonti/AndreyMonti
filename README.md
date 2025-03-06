@@ -1,4 +1,4 @@
-<h2 align="left">Olá! 👋! Meu nome é Andrey Montibeller!</h2>
+<h2 align="left">Olá! Meu nome é Andrey Montibeller!👋</h2>
 
 ###
 
