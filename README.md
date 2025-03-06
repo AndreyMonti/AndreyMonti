@@ -46,6 +46,6 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/AndreyMonti/AndreyMonti/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/AndreyMonti/AndreyMonti/output/snake.svg" alt="Snake animation" />
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=AndreyMonti&repo=AndreyMonti&theme=react)](https://github.com/your username/your username)
+###
